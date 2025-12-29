@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=biolds&project=sosse&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <p>
   <img src="https://raw.githubusercontent.com/biolds/sosse/main/se/static/se/logo.svg" width="64" align="right">
   <a href="https://gitlab.com/biolds1/sosse/" alt="Gitlab code coverage" style="text-decoration: none">
